@@ -1,0 +1,20 @@
+# discord-unban
+
+> Обновлённая версия для Discord в текущих условиях. Надежнее, стабильнее, быстрее
+
+discord-unban чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+
+## Страницы
+- Сайт: https://finportalcontinue.github.io/discord-unban/
+- Релиз: https://github.com/FinPortalContinue/discord-unban/releases/latest
+- Исходный код: https://github.com/FinPortalContinue/discord-unban
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Discord
+- Discord не подключается
+- Discord connecting исправить
+- голосовой чат Discord не работает
+- zapret Discord
+
+Windows 10/11, без VPN, бесплатно.
